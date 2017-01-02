@@ -1,5 +1,3 @@
-# Linked Lists
-
 ## Quick Overview
 
 ![Linked List](images/linkedlist.bmp)
