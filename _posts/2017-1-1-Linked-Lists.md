@@ -1,3 +1,8 @@
+---
+layout: post
+title: Linked Lists
+---
+
 ## Quick Overview
 
 ![Linked List](images/linkedlist.bmp)
